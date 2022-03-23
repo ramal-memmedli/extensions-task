@@ -1,0 +1,16 @@
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\bin\Debug\net5.0\Extensions.exe
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\bin\Debug\net5.0\Extensions.deps.json
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\bin\Debug\net5.0\Extensions.runtimeconfig.json
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\bin\Debug\net5.0\Extensions.runtimeconfig.dev.json
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\bin\Debug\net5.0\Extensions.dll
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\bin\Debug\net5.0\Extensions.pdb
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\Extensions.AssemblyInfo.cs
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\Extensions.dll
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\refint\Extensions.dll
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\Extensions.pdb
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\Extensions.genruntimeconfig.cache
+C:\Users\Ramal\Desktop\C# Projects\Extensions\Extensions\obj\Debug\net5.0\ref\Extensions.dll
